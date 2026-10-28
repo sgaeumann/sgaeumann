@@ -1,16 +1,36 @@
-## Hi there 👋
+# S. Gäumann
 
-<!--
-**sgaeumann/sgaeumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A junior software engineer curious about the IT universe.**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently looking for a first professional experience after graduation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+  <a href="sarahgaeumann01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+## 🚀 Skills
+
+### Languages and frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,ts,js,go" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vue,nodejs,postman,figma,flutter" />
+</p>
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker" />
+</p>
+
+### Technical concepts
+
+- [Design Patterns](https://refactoring.guru/design-patterns)
+- OOP
+- System Design
+- Microservices
+- Hosting
